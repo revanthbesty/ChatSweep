@@ -1,0 +1,10 @@
+ChatSweep policy owner acceptance checklist — 26 October 2026
+
+[ ] I approve revcoreastra@gmail.com as the public support and privacy contact.
+[ ] RevCore Astra is the appropriate public operator name for this product.
+[ ] I reviewed source-derived claims about local storage, lack of uploads to publisher, and third-party interactions.
+[ ] Data categories in Chrome Web Store match the policy and code.
+[ ] Any legally required publisher address/contact and jurisdiction notices are included or addressed separately.
+[ ] I verified the published HTTPS Privacy Policy URL without being logged in.
+[ ] The in-extension draft Privacy and Terms pages are replaced in an updated ZIP before submission.
+[ ] I verified the final release candidate in installed Chrome before submitting.
